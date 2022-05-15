@@ -21,7 +21,7 @@ This application takes advantage of the following technologies:
 This project is deployed on Heroku [here](https://budget-tracker-111111.herokuapp.com/).
 
 ## Page Screenshots
-Installed app:
+
 ![ReadMe_ScreenShot](./public\assets\images\Web_capture-localhost.jpeg) 
 
 ## Contributing
