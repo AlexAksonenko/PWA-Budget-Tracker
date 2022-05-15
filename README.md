@@ -18,14 +18,11 @@ This application takes advantage of the following technologies:
 - [indexed db](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 
 ## Instructions
-This project is deployed on Heroku [here](https://rr-budget-pwa.herokuapp.com/).
+This project is deployed on Heroku [here](https://budget-tracker-111111.herokuapp.com/).
 
 ## Page Screenshots
 Installed app:
 ![ReadMe_ScreenShot](./public\assets\images\Web_capture-localhost.jpeg) 
 
-Installed app on iOS:
-![ReadMe_ScreenShot_iOS](./public/assets/images/ReadMe_ScreenShot_iOS.PNG)
-
 ## Contributing
-Any and all collaboration is welcome so if you have any suggestions or thoughts for new features, please send me an email at ryan.rotman@gmail.com.
+Any and all collaboration is welcome so if you have any suggestions or thoughts for new features, please send me an email at aksenenkosn@gmail.com.
