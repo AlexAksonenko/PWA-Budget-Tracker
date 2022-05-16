@@ -22,7 +22,7 @@ This project is deployed on Heroku (https://budget-tracker-111111.herokuapp.com/
 
 ## Page Screenshots
 
-![Note Taker Application Screenshot](./assets/screen.jpeg) 
+![Note Taker Application Screenshot](./public//assets/images/screen.jpeg) 
 
 ## Contributing
 Any and all collaboration is welcome so if you have any suggestions or thoughts for new features, please send me an email at aksenenkosn@gmail.com.
