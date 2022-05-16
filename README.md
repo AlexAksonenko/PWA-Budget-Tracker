@@ -22,7 +22,7 @@ This project is deployed on Heroku [here](https://budget-tracker-111111.herokuap
 
 ## Page Screenshots
 
-![ReadMe_ScreenShot](./public\assets\images\Web_capture-localhost.jpeg) 
+![ReadMe_ScreenShot](./public\assets\images\screen.jpeg) 
 
 ## Contributing
 Any and all collaboration is welcome so if you have any suggestions or thoughts for new features, please send me an email at aksenenkosn@gmail.com.
